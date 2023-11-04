@@ -1,0 +1,21 @@
+.icon_Area{
+    font-size: 60px;
+}
+.btn_area{
+    background-color: rgb(236, 114, 38);
+    font-size: 18px;
+    transition: 0.5s;
+    font-weight: 500;
+}
+.btn_area:hover{
+    background-color: rgb(150, 59, 3);
+    color: black;
+}
+.Title_Area{
+    font-size: 40px;
+    font-weight: 700;
+}
+.Link_area{
+    text-decoration: none;
+    color: white !important;
+}

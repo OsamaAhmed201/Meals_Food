@@ -1,0 +1,28 @@
+.home_con_mg{
+ 
+    position: absolute;
+    top:0px;
+    right: 0;
+    color: rgba(255, 255, 255, 0.769);
+    padding: 5px;
+    
+    
+    
+
+    
+}
+.home_p{
+    background-color: rgb(174, 6, 6);
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.card_home{
+    position: relative;
+    overflow: hidden;
+}
+
+.img_home{
+    border-radius: 10px;
+    background-color: white;
+}   

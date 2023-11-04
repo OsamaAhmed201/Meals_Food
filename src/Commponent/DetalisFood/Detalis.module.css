@@ -1,0 +1,52 @@
+.btn_detalise{
+    background-color: rgb(233, 226, 34);
+    transition: 0.5s;
+}
+.btn_detalise:hover{
+    background-color: rgb(176, 171, 9);
+}
+.img_detalis{
+    border-radius: 15px;
+}
+
+.btn_yuotube{
+  
+    background-color: red;
+    border: none;
+    padding: 7px 28px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+.youtube_Icon{
+    text-decoration: none;
+     font-size: 28px;
+     color: white;
+}
+.sourc_Icon{
+    text-decoration: none;
+     font-size: 25px;
+     color: white;
+}
+.btn_sourc{
+    background-color: blue;
+    border: none;
+    padding: 7px 28px;
+    border-radius: 10px;
+    margin: 10px;
+    transition: 0.5s;
+    
+}
+ .btn_yuotube:hover {
+    background-color:rgb(161, 4, 4) ;
+}
+.btn_sourc:hover{
+    background-color: rgb(5, 5, 129);
+}
+
+.Recipes{
+    background-color: rgba(235, 235, 54, 0.794);
+    padding: 2px 5px;
+    border-radius: 5px;
+    margin: 0 5px;
+    display: inline-block; 
+}
