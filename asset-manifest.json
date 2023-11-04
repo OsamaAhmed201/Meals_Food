@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Meals_Food/static/css/main.19f477b1.css",
+    "main.js": "/Meals_Food/static/js/main.821d2d2a.js",
+    "static/js/787.fc94be8b.chunk.js": "/Meals_Food/static/js/787.fc94be8b.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Meals_Food/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/Meals_Food/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/Meals_Food/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/Meals_Food/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/Meals_Food/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/Meals_Food/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/ef-removebg-preview.png": "/Meals_Food/static/media/ef-removebg-preview.56c41942815b22b75be2.png",
+    "static/media/fa-v4compatibility.ttf": "/Meals_Food/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Meals_Food/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/Meals_Food/index.html",
+    "main.19f477b1.css.map": "/Meals_Food/static/css/main.19f477b1.css.map",
+    "main.821d2d2a.js.map": "/Meals_Food/static/js/main.821d2d2a.js.map",
+    "787.fc94be8b.chunk.js.map": "/Meals_Food/static/js/787.fc94be8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19f477b1.css",
+    "static/js/main.821d2d2a.js"
+  ]
+}
